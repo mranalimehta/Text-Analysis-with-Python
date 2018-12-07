@@ -1,5 +1,5 @@
 # Natural-Language-Processing-with-Python
-From level zero to advance level of natural language processing with python
+
 ****************In nlp1.py *****************
 It is first example of getting started with nlp using spaCy. 
 spaCy is first imported.
