@@ -1,5 +1,5 @@
 # Natural-Language-Processing-with-Python
-# All the examples are collection of those I found # on online tutorial while learning NLP. These can # be found while learning from youtube videos or blog. 
+# All the examples are collection of those I found on online tutorial while learning NLP. These can be found while learning from youtube videos or any other blog. 
 ****************In nlp1.py *****************
 
 It is first example of getting started with nlp using spaCy. 
