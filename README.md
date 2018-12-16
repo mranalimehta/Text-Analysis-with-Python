@@ -49,7 +49,8 @@ The code is pretty much straight forward.
 
 ****************In nlp_nltk_3.py *****************
 
-
+With ths example we introduce stemming with nltk. from nltk.stem import 
+PorterStemmer. Now we perform stemming firstly on a list of words with same roots. Then we consider a text and tokenize it to use the stem concept on it. The words will be stemmed to their root words by the Porterstemmer library and its method stem(). The example is pretty straight forward.
 
 
 
